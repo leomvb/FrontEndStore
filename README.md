@@ -1,2 +1,1 @@
-# FrontEndStore
- https://leomvb.github.io/FrontEndStore/
+https://leomvb.github.io/FrontEndStore/
